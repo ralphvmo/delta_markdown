@@ -11,7 +11,7 @@ environment:
 dependencies:
   args: ^2.7.0
   charcode:  ^1.4.0
-  collection: 1.18.0
+  collection: ^1.18.0
   flutter_quill: ^11.4.2
 
 dev_dependencies:
